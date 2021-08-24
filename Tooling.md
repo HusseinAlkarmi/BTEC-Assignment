@@ -55,3 +55,9 @@ in my project i choose windows as an os but i used linux termenal on it and the 
 for the IDE i used VS code and this tool is the best for programing because its offer a lot of progaming languages and give us a easy steps for debugging and see the steps to solve errors.
 
 also i used githup because GitHub is a website where programmers and developers may collaborate on code. The main advantage of GitHub is its version control system, which enables seamless collaboration without jeopardizing the original project's integrity. Open-source software can be found in the projects on GitHub.
+
+
+### References:
+1. []().
+2. []().
+3. []().
