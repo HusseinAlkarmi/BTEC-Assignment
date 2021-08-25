@@ -50,14 +50,21 @@ The platform each ideology presents is the main distinction between GitHub and G
 
 ## chosen tools 
 
-in my project i choose windows as an os but i used linux termenal on it and the reasons are becuse linux gives me more features than windows and all i needed from it was the terminal and i have windows because its more easy to use.
+in my project i choose windows as an os but i used ubuntu termenal on it and the reasons are becuse ubuntu gives me more features than windows and all i needed from it was the terminal and i have windows because its more easy to use.
 
 for the IDE i used VS code and this tool is the best for programing because its offer a lot of progaming languages and give us a easy steps for debugging and see the steps to solve errors.
 
 also i used githup because GitHub is a website where programmers and developers may collaborate on code. The main advantage of GitHub is its version control system, which enables seamless collaboration without jeopardizing the original project's integrity. Open-source software can be found in the projects on GitHub.
 
 
+# 3:
++ in my project i needed to work in team and as a team we should work together so we used github because it let us work together and merge our work with each other in an easy way 
+
++ for the vs code i used it because i needed to work on html and css and js and the vs code provide me all these three and it give me a live server that let me see my code running and let me test it without hard steps and in clear way so it was the best choice also its linked with the git hub with the ubuntu tirmenal so i can pull the work and push it and do whatever i need in a simple steps
+
++ i used ubuntu tirmenal for many reasons first of it because the ubuntu give us more access and more commands and features than any other os also its connect the vs code and github together to make the work easier on us and the ubuntu is so secure comparing to any other OS.
+
 ### References:
-1. []().
-2. []().
+1. https://www.educba.com/ubuntu-vs-windows-10/
+2. https://code.visualstudio.com/docs/editor/whyvscode#:~:text=At%20its%20heart%2C%20Visual%20Studio,selection%2C%20snippets%2C%20and%20more.
 3. []().
