@@ -7,8 +7,11 @@
  ##   Solution:
 	We created a website for adopt pets that show available pets for adoption with information about them to make it easy to find the suitable pet for the user. 
 
+    
+
 
 ## problems during project:
+in the projects we useualy face some problems and we cant finish the project in the right way without fix the problems and make the job clear without problems to give the best work in the best time.
 
 + lack of comunicate
 + wrong time manegment 
@@ -17,7 +20,7 @@
 + lack planing
 
 
-## solutions:
+## solutions
 
 + find a good way to comunicate and do meetings to see the process
 make a scope plan
@@ -27,7 +30,7 @@ make a scope plan
 
 ## System Requirements:
 
-+ local storeg
++ local storage
 + buttons
 + add to cart functions
 
@@ -64,7 +67,7 @@ first of all we find the idea then we put the system requirements and user requi
 
 ### System Requirements:
 
-+ local storeg
++ local storage
 + buttons
 + add to cart functions
 
